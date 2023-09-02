@@ -1,2 +1,2 @@
 # JRDP_OS
-The JRDP Team OS,graphical system written in C language
+The JRDP Team OS,text only system written in C language
